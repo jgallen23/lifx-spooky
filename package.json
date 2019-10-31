@@ -1,0 +1,22 @@
+{
+  "name": "lifx-spooky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgallen23/lifx-spooky.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgallen23/lifx-spooky/issues"
+  },
+  "homepage": "https://github.com/jgallen23/lifx-spooky#readme",
+  "dependencies": {
+    "node-lifx-lan": "^0.4.0"
+  }
+}
